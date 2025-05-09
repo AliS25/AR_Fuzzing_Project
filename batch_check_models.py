@@ -79,6 +79,11 @@ def batch_validate(cnf_folder, model_folder, output_file="validation_results.txt
     print(f"✅ Validation complete. Results saved to '{output_file}'.")
 
 # run the batch validation:
+
+# 1) Used for 3sat fuzzer on the cadical solver
+#batch_validate("3sat_solvers_output\\3sat_cnf_instances", "3sat_solvers_output\\cadical_models", "3sat_solvers_output\\cadical_validation_results.txt")
+
+# 2) Used for 3sat fuzzer on the lingeling solver
 batch_validate("fuzzsat_solvers_output\\cnf_instances", "fuzzsat_solvers_output\\dc_models", "fuzzsat_solvers_output\\dc_validation_results.txt")
 
 # When you change the fuzzer you are checking, you need to change the output directory name as well for all three arguments
