@@ -49,7 +49,7 @@ def validate_model(num_vars, clauses, model):
     s.add(assumptions)
     return s.check() == sat
 
-def batch_validate(cnf_folder, model_folder, output_file="validation_results.txt"):
+def batch_validate(cnf_folder, model_folder, output_file="cadical_validation_results.txt"):
     with open(output_file, "w") as out:
         for cnf_file in os.listdir(cnf_folder):
             if not cnf_file.endswith(".cnf"):
@@ -79,4 +79,4 @@ def batch_validate(cnf_folder, model_folder, output_file="validation_results.txt
     print(f"✅ Validation complete. Results saved to '{output_file}'.")
 
 # run the batch validation:
-batch_validate("C:\\Users\\alisb\Downloads\\cnf_instances-20250501T041144Z-1-001\\cryptominisat_cnf_instances", "C:\\Users\\alisb\Downloads\\fuzzsat-0.1\\fuzzsat-0.1\\cryptominisat_models")
+batch_validate("fuzzsat_solvers_output\\cnf_instances", "fuzzsat_solvers_output\\dc_models", "fuzzsat_solvers_output\\dc_validation_results.txt")
