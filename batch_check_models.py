@@ -49,7 +49,7 @@ def validate_model(num_vars, clauses, model):
     s.add(assumptions)
     return s.check() == sat
 
-def batch_validate(cnf_folder, model_folder, output_file="cadical_validation_results.txt"):
+def batch_validate(cnf_folder, model_folder, output_file="validation_results.txt"):
     with open(output_file, "w") as out:
         for cnf_file in os.listdir(cnf_folder):
             if not cnf_file.endswith(".cnf"):
