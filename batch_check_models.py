@@ -80,3 +80,6 @@ def batch_validate(cnf_folder, model_folder, output_file="validation_results.txt
 
 # run the batch validation:
 batch_validate("fuzzsat_solvers_output\\cnf_instances", "fuzzsat_solvers_output\\dc_models", "fuzzsat_solvers_output\\dc_validation_results.txt")
+
+# When you change the fuzzer you are checking, you need to change the output directory name as well for all three arguments
+# Also change the name of the solver for the second and third arguments

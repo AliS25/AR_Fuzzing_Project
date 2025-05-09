@@ -25,3 +25,5 @@ with open(csv_path, newline='') as csvfile:
                 f.write(assignment)
 
 print(f"Files created in folder: {output_dir}")
+
+## When you change the fuzzer you are checking, you need to change the output directory name as well.
