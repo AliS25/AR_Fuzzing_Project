@@ -9,7 +9,7 @@ if len(sys.argv) != 2:
 
 csv_path = sys.argv[1]
 csv_name = os.path.splitext(os.path.basename(csv_path))[0]
-output_dir = f"fuzzsat_solvers_output/{csv_name}_models"
+output_dir = f"fuzzsat_300_solvers_output/{csv_name}_models"
 os.makedirs(output_dir, exist_ok=True)
 
 # Read and process the CSV
