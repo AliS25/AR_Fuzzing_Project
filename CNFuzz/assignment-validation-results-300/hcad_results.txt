@@ -1,0 +1,1000 @@
+[MISSING MODEL] cnf_249.cnf: model file 'cnf_249.cnfmodel.txt' not found
+[VALID]   cnf_513.cnf
+[MISSING MODEL] cnf_275.cnf: model file 'cnf_275.cnfmodel.txt' not found
+[MISSING MODEL] cnf_16.cnf: model file 'cnf_16.cnfmodel.txt' not found
+[VALID]   cnf_261.cnf
+[MISSING MODEL] cnf_507.cnf: model file 'cnf_507.cnfmodel.txt' not found
+[MISSING MODEL] cnf_936.cnf: model file 'cnf_936.cnfmodel.txt' not found
+[MISSING MODEL] cnf_922.cnf: model file 'cnf_922.cnfmodel.txt' not found
+[MISSING MODEL] cnf_739.cnf: model file 'cnf_739.cnfmodel.txt' not found
+[MISSING MODEL] cnf_711.cnf: model file 'cnf_711.cnfmodel.txt' not found
+[VALID]   cnf_705.cnf
+[MISSING MODEL] cnf_842.cnf: model file 'cnf_842.cnfmodel.txt' not found
+[MISSING MODEL] cnf_856.cnf: model file 'cnf_856.cnfmodel.txt' not found
+[VALID]   cnf_659.cnf
+[VALID]   cnf_881.cnf
+[MISSING MODEL] cnf_895.cnf: model file 'cnf_895.cnfmodel.txt' not found
+[MISSING MODEL] cnf_103.cnf: model file 'cnf_103.cnfmodel.txt' not found
+[MISSING MODEL] cnf_665.cnf: model file 'cnf_665.cnfmodel.txt' not found
+[MISSING MODEL] cnf_671.cnf: model file 'cnf_671.cnfmodel.txt' not found
+[MISSING MODEL] cnf_117.cnf: model file 'cnf_117.cnfmodel.txt' not found
+[MISSING MODEL] cnf_498.cnf: model file 'cnf_498.cnfmodel.txt' not found
+[VALID]   cnf_329.cnf
+[MISSING MODEL] cnf_467.cnf: model file 'cnf_467.cnfmodel.txt' not found
+[VALID]   cnf_301.cnf
+[VALID]   cnf_315.cnf
+[MISSING MODEL] cnf_473.cnf: model file 'cnf_473.cnfmodel.txt' not found
+[VALID]   cnf_314.cnf
+[MISSING MODEL] cnf_472.cnf: model file 'cnf_472.cnfmodel.txt' not found
+[MISSING MODEL] cnf_466.cnf: model file 'cnf_466.cnfmodel.txt' not found
+[MISSING MODEL] cnf_300.cnf: model file 'cnf_300.cnfmodel.txt' not found
+[MISSING MODEL] cnf_328.cnf: model file 'cnf_328.cnfmodel.txt' not found
+[VALID]   cnf_499.cnf
+[MISSING MODEL] cnf_670.cnf: model file 'cnf_670.cnfmodel.txt' not found
+[MISSING MODEL] cnf_116.cnf: model file 'cnf_116.cnfmodel.txt' not found
+[VALID]   cnf_102.cnf
+[MISSING MODEL] cnf_664.cnf: model file 'cnf_664.cnfmodel.txt' not found
+[VALID]   cnf_894.cnf
+[MISSING MODEL] cnf_880.cnf: model file 'cnf_880.cnfmodel.txt' not found
+[MISSING MODEL] cnf_658.cnf: model file 'cnf_658.cnfmodel.txt' not found
+[MISSING MODEL] cnf_857.cnf: model file 'cnf_857.cnfmodel.txt' not found
+[VALID]   cnf_843.cnf
+[MISSING MODEL] cnf_704.cnf: model file 'cnf_704.cnfmodel.txt' not found
+[MISSING MODEL] cnf_710.cnf: model file 'cnf_710.cnfmodel.txt' not found
+[VALID]   cnf_738.cnf
+[VALID]   cnf_923.cnf
+[VALID]   cnf_937.cnf
+[MISSING MODEL] cnf_260.cnf: model file 'cnf_260.cnfmodel.txt' not found
+[MISSING MODEL] cnf_17.cnf: model file 'cnf_17.cnfmodel.txt' not found
+[MISSING MODEL] cnf_506.cnf: model file 'cnf_506.cnfmodel.txt' not found
+[VALID]   cnf_512.cnf
+[MISSING MODEL] cnf_274.cnf: model file 'cnf_274.cnfmodel.txt' not found
+[MISSING MODEL] cnf_248.cnf: model file 'cnf_248.cnfmodel.txt' not found
+[VALID]   cnf_289.cnf
+[MISSING MODEL] cnf_538.cnf: model file 'cnf_538.cnfmodel.txt' not found
+[MISSING MODEL] cnf_29.cnf: model file 'cnf_29.cnfmodel.txt' not found
+[MISSING MODEL] cnf_504.cnf: model file 'cnf_504.cnfmodel.txt' not found
+[MISSING MODEL] cnf_15.cnf: model file 'cnf_15.cnfmodel.txt' not found
+[MISSING MODEL] cnf_262.cnf: model file 'cnf_262.cnfmodel.txt' not found
+[MISSING MODEL] cnf_276.cnf: model file 'cnf_276.cnfmodel.txt' not found
+[MISSING MODEL] cnf_510.cnf: model file 'cnf_510.cnfmodel.txt' not found
+[MISSING MODEL] cnf_921.cnf: model file 'cnf_921.cnfmodel.txt' not found
+[MISSING MODEL] cnf_935.cnf: model file 'cnf_935.cnfmodel.txt' not found
+[MISSING MODEL] cnf_909.cnf: model file 'cnf_909.cnfmodel.txt' not found
+[MISSING MODEL] cnf_706.cnf: model file 'cnf_706.cnfmodel.txt' not found
+[MISSING MODEL] cnf_712.cnf: model file 'cnf_712.cnfmodel.txt' not found
+[MISSING MODEL] cnf_855.cnf: model file 'cnf_855.cnfmodel.txt' not found
+[MISSING MODEL] cnf_841.cnf: model file 'cnf_841.cnfmodel.txt' not found
+[MISSING MODEL] cnf_699.cnf: model file 'cnf_699.cnfmodel.txt' not found
+[MISSING MODEL] cnf_869.cnf: model file 'cnf_869.cnfmodel.txt' not found
+[MISSING MODEL] cnf_128.cnf: model file 'cnf_128.cnfmodel.txt' not found
+[MISSING MODEL] cnf_896.cnf: model file 'cnf_896.cnfmodel.txt' not found
+[MISSING MODEL] cnf_882.cnf: model file 'cnf_882.cnfmodel.txt' not found
+[MISSING MODEL] cnf_114.cnf: model file 'cnf_114.cnfmodel.txt' not found
+[MISSING MODEL] cnf_672.cnf: model file 'cnf_672.cnfmodel.txt' not found
+[MISSING MODEL] cnf_666.cnf: model file 'cnf_666.cnfmodel.txt' not found
+[MISSING MODEL] cnf_100.cnf: model file 'cnf_100.cnfmodel.txt' not found
+[MISSING MODEL] cnf_458.cnf: model file 'cnf_458.cnfmodel.txt' not found
+[MISSING MODEL] cnf_470.cnf: model file 'cnf_470.cnfmodel.txt' not found
+[MISSING MODEL] cnf_316.cnf: model file 'cnf_316.cnfmodel.txt' not found
+[MISSING MODEL] cnf_302.cnf: model file 'cnf_302.cnfmodel.txt' not found
+[VALID]   cnf_464.cnf
+[MISSING MODEL] cnf_303.cnf: model file 'cnf_303.cnfmodel.txt' not found
+[MISSING MODEL] cnf_465.cnf: model file 'cnf_465.cnfmodel.txt' not found
+[MISSING MODEL] cnf_471.cnf: model file 'cnf_471.cnfmodel.txt' not found
+[VALID]   cnf_317.cnf
+[MISSING MODEL] cnf_459.cnf: model file 'cnf_459.cnfmodel.txt' not found
+[MISSING MODEL] cnf_667.cnf: model file 'cnf_667.cnfmodel.txt' not found
+[MISSING MODEL] cnf_101.cnf: model file 'cnf_101.cnfmodel.txt' not found
+[MISSING MODEL] cnf_115.cnf: model file 'cnf_115.cnfmodel.txt' not found
+[MISSING MODEL] cnf_673.cnf: model file 'cnf_673.cnfmodel.txt' not found
+[MISSING MODEL] cnf_883.cnf: model file 'cnf_883.cnfmodel.txt' not found
+[MISSING MODEL] cnf_129.cnf: model file 'cnf_129.cnfmodel.txt' not found
+[MISSING MODEL] cnf_897.cnf: model file 'cnf_897.cnfmodel.txt' not found
+[MISSING MODEL] cnf_868.cnf: model file 'cnf_868.cnfmodel.txt' not found
+[MISSING MODEL] cnf_698.cnf: model file 'cnf_698.cnfmodel.txt' not found
+[VALID]   cnf_840.cnf
+[MISSING MODEL] cnf_854.cnf: model file 'cnf_854.cnfmodel.txt' not found
+[MISSING MODEL] cnf_713.cnf: model file 'cnf_713.cnfmodel.txt' not found
+[MISSING MODEL] cnf_707.cnf: model file 'cnf_707.cnfmodel.txt' not found
+[VALID]   cnf_908.cnf
+[MISSING MODEL] cnf_934.cnf: model file 'cnf_934.cnfmodel.txt' not found
+[MISSING MODEL] cnf_920.cnf: model file 'cnf_920.cnfmodel.txt' not found
+[MISSING MODEL] cnf_277.cnf: model file 'cnf_277.cnfmodel.txt' not found
+[MISSING MODEL] cnf_511.cnf: model file 'cnf_511.cnfmodel.txt' not found
+[VALID]   cnf_505.cnf
+[MISSING MODEL] cnf_263.cnf: model file 'cnf_263.cnfmodel.txt' not found
+[VALID]   cnf_14.cnf
+[MISSING MODEL] cnf_539.cnf: model file 'cnf_539.cnfmodel.txt' not found
+[MISSING MODEL] cnf_28.cnf: model file 'cnf_28.cnfmodel.txt' not found
+[MISSING MODEL] cnf_288.cnf: model file 'cnf_288.cnfmodel.txt' not found
+[MISSING MODEL] cnf_298.cnf: model file 'cnf_298.cnfmodel.txt' not found
+[VALID]   cnf_10.cnf
+[MISSING MODEL] cnf_267.cnf: model file 'cnf_267.cnfmodel.txt' not found
+[MISSING MODEL] cnf_501.cnf: model file 'cnf_501.cnfmodel.txt' not found
+[MISSING MODEL] cnf_515.cnf: model file 'cnf_515.cnfmodel.txt' not found
+[MISSING MODEL] cnf_273.cnf: model file 'cnf_273.cnfmodel.txt' not found
+[MISSING MODEL] cnf_529.cnf: model file 'cnf_529.cnfmodel.txt' not found
+[MISSING MODEL] cnf_38.cnf: model file 'cnf_38.cnfmodel.txt' not found
+[VALID]   cnf_918.cnf
+[MISSING MODEL] cnf_924.cnf: model file 'cnf_924.cnfmodel.txt' not found
+[MISSING MODEL] cnf_930.cnf: model file 'cnf_930.cnfmodel.txt' not found
+[MISSING MODEL] cnf_703.cnf: model file 'cnf_703.cnfmodel.txt' not found
+[MISSING MODEL] cnf_717.cnf: model file 'cnf_717.cnfmodel.txt' not found
+[MISSING MODEL] cnf_878.cnf: model file 'cnf_878.cnfmodel.txt' not found
+[MISSING MODEL] cnf_850.cnf: model file 'cnf_850.cnfmodel.txt' not found
+[MISSING MODEL] cnf_688.cnf: model file 'cnf_688.cnfmodel.txt' not found
+[MISSING MODEL] cnf_844.cnf: model file 'cnf_844.cnfmodel.txt' not found
+[MISSING MODEL] cnf_677.cnf: model file 'cnf_677.cnfmodel.txt' not found
+[VALID]   cnf_111.cnf
+[MISSING MODEL] cnf_105.cnf: model file 'cnf_105.cnfmodel.txt' not found
+[VALID]   cnf_663.cnf
+[MISSING MODEL] cnf_893.cnf: model file 'cnf_893.cnfmodel.txt' not found
+[MISSING MODEL] cnf_139.cnf: model file 'cnf_139.cnfmodel.txt' not found
+[MISSING MODEL] cnf_887.cnf: model file 'cnf_887.cnfmodel.txt' not found
+[MISSING MODEL] cnf_313.cnf: model file 'cnf_313.cnfmodel.txt' not found
+[MISSING MODEL] cnf_475.cnf: model file 'cnf_475.cnfmodel.txt' not found
+[MISSING MODEL] cnf_461.cnf: model file 'cnf_461.cnfmodel.txt' not found
+[MISSING MODEL] cnf_307.cnf: model file 'cnf_307.cnfmodel.txt' not found
+[MISSING MODEL] cnf_449.cnf: model file 'cnf_449.cnfmodel.txt' not found
+[MISSING MODEL] cnf_448.cnf: model file 'cnf_448.cnfmodel.txt' not found
+[MISSING MODEL] cnf_460.cnf: model file 'cnf_460.cnfmodel.txt' not found
+[VALID]   cnf_306.cnf
+[MISSING MODEL] cnf_312.cnf: model file 'cnf_312.cnfmodel.txt' not found
+[MISSING MODEL] cnf_474.cnf: model file 'cnf_474.cnfmodel.txt' not found
+[MISSING MODEL] cnf_138.cnf: model file 'cnf_138.cnfmodel.txt' not found
+[MISSING MODEL] cnf_886.cnf: model file 'cnf_886.cnfmodel.txt' not found
+[VALID]   cnf_892.cnf
+[VALID]   cnf_104.cnf
+[MISSING MODEL] cnf_662.cnf: model file 'cnf_662.cnfmodel.txt' not found
+[MISSING MODEL] cnf_676.cnf: model file 'cnf_676.cnfmodel.txt' not found
+[MISSING MODEL] cnf_110.cnf: model file 'cnf_110.cnfmodel.txt' not found
+[MISSING MODEL] cnf_845.cnf: model file 'cnf_845.cnfmodel.txt' not found
+[MISSING MODEL] cnf_689.cnf: model file 'cnf_689.cnfmodel.txt' not found
+[VALID]   cnf_851.cnf
+[MISSING MODEL] cnf_879.cnf: model file 'cnf_879.cnfmodel.txt' not found
+[MISSING MODEL] cnf_716.cnf: model file 'cnf_716.cnfmodel.txt' not found
+[MISSING MODEL] cnf_702.cnf: model file 'cnf_702.cnfmodel.txt' not found
+[MISSING MODEL] cnf_931.cnf: model file 'cnf_931.cnfmodel.txt' not found
+[MISSING MODEL] cnf_925.cnf: model file 'cnf_925.cnfmodel.txt' not found
+[VALID]   cnf_919.cnf
+[VALID]   cnf_528.cnf
+[MISSING MODEL] cnf_39.cnf: model file 'cnf_39.cnfmodel.txt' not found
+[VALID]   cnf_514.cnf
+[MISSING MODEL] cnf_272.cnf: model file 'cnf_272.cnfmodel.txt' not found
+[VALID]   cnf_266.cnf
+[MISSING MODEL] cnf_11.cnf: model file 'cnf_11.cnfmodel.txt' not found
+[MISSING MODEL] cnf_500.cnf: model file 'cnf_500.cnfmodel.txt' not found
+[VALID]   cnf_299.cnf
+[MISSING MODEL] cnf_270.cnf: model file 'cnf_270.cnfmodel.txt' not found
+[MISSING MODEL] cnf_516.cnf: model file 'cnf_516.cnfmodel.txt' not found
+[MISSING MODEL] cnf_502.cnf: model file 'cnf_502.cnfmodel.txt' not found
+[MISSING MODEL] cnf_13.cnf: model file 'cnf_13.cnfmodel.txt' not found
+[MISSING MODEL] cnf_264.cnf: model file 'cnf_264.cnfmodel.txt' not found
+[MISSING MODEL] cnf_258.cnf: model file 'cnf_258.cnfmodel.txt' not found
+[VALID]   cnf_933.cnf
+[MISSING MODEL] cnf_927.cnf: model file 'cnf_927.cnfmodel.txt' not found
+[MISSING MODEL] cnf_714.cnf: model file 'cnf_714.cnfmodel.txt' not found
+[MISSING MODEL] cnf_700.cnf: model file 'cnf_700.cnfmodel.txt' not found
+[VALID]   cnf_728.cnf
+[VALID]   cnf_847.cnf
+[MISSING MODEL] cnf_853.cnf: model file 'cnf_853.cnfmodel.txt' not found
+[VALID]   cnf_660.cnf
+[MISSING MODEL] cnf_106.cnf: model file 'cnf_106.cnfmodel.txt' not found
+[MISSING MODEL] cnf_112.cnf: model file 'cnf_112.cnfmodel.txt' not found
+[VALID]   cnf_674.cnf
+[MISSING MODEL] cnf_884.cnf: model file 'cnf_884.cnfmodel.txt' not found
+[MISSING MODEL] cnf_648.cnf: model file 'cnf_648.cnfmodel.txt' not found
+[MISSING MODEL] cnf_890.cnf: model file 'cnf_890.cnfmodel.txt' not found
+[MISSING MODEL] cnf_489.cnf: model file 'cnf_489.cnfmodel.txt' not found
+[VALID]   cnf_304.cnf
+[MISSING MODEL] cnf_462.cnf: model file 'cnf_462.cnfmodel.txt' not found
+[MISSING MODEL] cnf_476.cnf: model file 'cnf_476.cnfmodel.txt' not found
+[VALID]   cnf_310.cnf
+[MISSING MODEL] cnf_338.cnf: model file 'cnf_338.cnfmodel.txt' not found
+[MISSING MODEL] cnf_339.cnf: model file 'cnf_339.cnfmodel.txt' not found
+[MISSING MODEL] cnf_477.cnf: model file 'cnf_477.cnfmodel.txt' not found
+[MISSING MODEL] cnf_311.cnf: model file 'cnf_311.cnfmodel.txt' not found
+[MISSING MODEL] cnf_305.cnf: model file 'cnf_305.cnfmodel.txt' not found
+[VALID]   cnf_463.cnf
+[MISSING MODEL] cnf_488.cnf: model file 'cnf_488.cnfmodel.txt' not found
+[MISSING MODEL] cnf_891.cnf: model file 'cnf_891.cnfmodel.txt' not found
+[VALID]   cnf_649.cnf
+[MISSING MODEL] cnf_885.cnf: model file 'cnf_885.cnfmodel.txt' not found
+[MISSING MODEL] cnf_113.cnf: model file 'cnf_113.cnfmodel.txt' not found
+[MISSING MODEL] cnf_675.cnf: model file 'cnf_675.cnfmodel.txt' not found
+[MISSING MODEL] cnf_661.cnf: model file 'cnf_661.cnfmodel.txt' not found
+[MISSING MODEL] cnf_107.cnf: model file 'cnf_107.cnfmodel.txt' not found
+[MISSING MODEL] cnf_852.cnf: model file 'cnf_852.cnfmodel.txt' not found
+[MISSING MODEL] cnf_846.cnf: model file 'cnf_846.cnfmodel.txt' not found
+[MISSING MODEL] cnf_729.cnf: model file 'cnf_729.cnfmodel.txt' not found
+[MISSING MODEL] cnf_701.cnf: model file 'cnf_701.cnfmodel.txt' not found
+[MISSING MODEL] cnf_715.cnf: model file 'cnf_715.cnfmodel.txt' not found
+[MISSING MODEL] cnf_926.cnf: model file 'cnf_926.cnfmodel.txt' not found
+[MISSING MODEL] cnf_932.cnf: model file 'cnf_932.cnfmodel.txt' not found
+[MISSING MODEL] cnf_259.cnf: model file 'cnf_259.cnfmodel.txt' not found
+[VALID]   cnf_503.cnf
+[MISSING MODEL] cnf_265.cnf: model file 'cnf_265.cnfmodel.txt' not found
+[MISSING MODEL] cnf_12.cnf: model file 'cnf_12.cnfmodel.txt' not found
+[MISSING MODEL] cnf_271.cnf: model file 'cnf_271.cnfmodel.txt' not found
+[VALID]   cnf_517.cnf
+[MISSING MODEL] cnf_558.cnf: model file 'cnf_558.cnfmodel.txt' not found
+[MISSING MODEL] cnf_49.cnf: model file 'cnf_49.cnfmodel.txt' not found
+[MISSING MODEL] cnf_61.cnf: model file 'cnf_61.cnfmodel.txt' not found
+[MISSING MODEL] cnf_216.cnf: model file 'cnf_216.cnfmodel.txt' not found
+[MISSING MODEL] cnf_570.cnf: model file 'cnf_570.cnfmodel.txt' not found
+[VALID]   cnf_564.cnf
+[MISSING MODEL] cnf_75.cnf: model file 'cnf_75.cnfmodel.txt' not found
+[MISSING MODEL] cnf_202.cnf: model file 'cnf_202.cnfmodel.txt' not found
+[MISSING MODEL] cnf_955.cnf: model file 'cnf_955.cnfmodel.txt' not found
+[VALID]   cnf_799.cnf
+[MISSING MODEL] cnf_941.cnf: model file 'cnf_941.cnfmodel.txt' not found
+[MISSING MODEL] cnf_969.cnf: model file 'cnf_969.cnfmodel.txt' not found
+[MISSING MODEL] cnf_996.cnf: model file 'cnf_996.cnfmodel.txt' not found
+[MISSING MODEL] cnf_982.cnf: model file 'cnf_982.cnfmodel.txt' not found
+[VALID]   cnf_772.cnf
+[VALID]   cnf_766.cnf
+[MISSING MODEL] cnf_821.cnf: model file 'cnf_821.cnfmodel.txt' not found
+[MISSING MODEL] cnf_835.cnf: model file 'cnf_835.cnfmodel.txt' not found
+[VALID]   cnf_809.cnf
+[MISSING MODEL] cnf_148.cnf: model file 'cnf_148.cnfmodel.txt' not found
+[MISSING MODEL] cnf_1.cnf: model file 'cnf_1.cnfmodel.txt' not found
+[VALID]   cnf_606.cnf
+[VALID]   cnf_160.cnf
+[MISSING MODEL] cnf_174.cnf: model file 'cnf_174.cnfmodel.txt' not found
+[MISSING MODEL] cnf_612.cnf: model file 'cnf_612.cnfmodel.txt' not found
+[MISSING MODEL] cnf_389.cnf: model file 'cnf_389.cnfmodel.txt' not found
+[VALID]   cnf_438.cnf
+[VALID]   cnf_362.cnf
+[MISSING MODEL] cnf_404.cnf: model file 'cnf_404.cnfmodel.txt' not found
+[MISSING MODEL] cnf_410.cnf: model file 'cnf_410.cnfmodel.txt' not found
+[MISSING MODEL] cnf_376.cnf: model file 'cnf_376.cnfmodel.txt' not found
+[MISSING MODEL] cnf_411.cnf: model file 'cnf_411.cnfmodel.txt' not found
+[MISSING MODEL] cnf_377.cnf: model file 'cnf_377.cnfmodel.txt' not found
+[VALID]   cnf_363.cnf
+[VALID]   cnf_405.cnf
+[VALID]   cnf_439.cnf
+[MISSING MODEL] cnf_388.cnf: model file 'cnf_388.cnfmodel.txt' not found
+[MISSING MODEL] cnf_175.cnf: model file 'cnf_175.cnfmodel.txt' not found
+[MISSING MODEL] cnf_613.cnf: model file 'cnf_613.cnfmodel.txt' not found
+[MISSING MODEL] cnf_607.cnf: model file 'cnf_607.cnfmodel.txt' not found
+[MISSING MODEL] cnf_161.cnf: model file 'cnf_161.cnfmodel.txt' not found
+[MISSING MODEL] cnf_149.cnf: model file 'cnf_149.cnfmodel.txt' not found
+[MISSING MODEL] cnf_808.cnf: model file 'cnf_808.cnfmodel.txt' not found
+[MISSING MODEL] cnf_834.cnf: model file 'cnf_834.cnfmodel.txt' not found
+[MISSING MODEL] cnf_820.cnf: model file 'cnf_820.cnfmodel.txt' not found
+[MISSING MODEL] cnf_767.cnf: model file 'cnf_767.cnfmodel.txt' not found
+[VALID]   cnf_773.cnf
+[VALID]   cnf_983.cnf
+[MISSING MODEL] cnf_997.cnf: model file 'cnf_997.cnfmodel.txt' not found
+[VALID]   cnf_968.cnf
+[MISSING MODEL] cnf_940.cnf: model file 'cnf_940.cnfmodel.txt' not found
+[MISSING MODEL] cnf_798.cnf: model file 'cnf_798.cnfmodel.txt' not found
+[MISSING MODEL] cnf_954.cnf: model file 'cnf_954.cnfmodel.txt' not found
+[VALID]   cnf_565.cnf
+[MISSING MODEL] cnf_203.cnf: model file 'cnf_203.cnfmodel.txt' not found
+[MISSING MODEL] cnf_74.cnf: model file 'cnf_74.cnfmodel.txt' not found
+[VALID]   cnf_217.cnf
+[MISSING MODEL] cnf_60.cnf: model file 'cnf_60.cnfmodel.txt' not found
+[MISSING MODEL] cnf_571.cnf: model file 'cnf_571.cnfmodel.txt' not found
+[MISSING MODEL] cnf_559.cnf: model file 'cnf_559.cnfmodel.txt' not found
+[MISSING MODEL] cnf_48.cnf: model file 'cnf_48.cnfmodel.txt' not found
+[MISSING MODEL] cnf_89.cnf: model file 'cnf_89.cnfmodel.txt' not found
+[MISSING MODEL] cnf_598.cnf: model file 'cnf_598.cnfmodel.txt' not found
+[MISSING MODEL] cnf_229.cnf: model file 'cnf_229.cnfmodel.txt' not found
+[MISSING MODEL] cnf_76.cnf: model file 'cnf_76.cnfmodel.txt' not found
+[MISSING MODEL] cnf_201.cnf: model file 'cnf_201.cnfmodel.txt' not found
+[MISSING MODEL] cnf_567.cnf: model file 'cnf_567.cnfmodel.txt' not found
+[VALID]   cnf_573.cnf
+[VALID]   cnf_62.cnf
+[MISSING MODEL] cnf_215.cnf: model file 'cnf_215.cnfmodel.txt' not found
+[MISSING MODEL] cnf_942.cnf: model file 'cnf_942.cnfmodel.txt' not found
+[MISSING MODEL] cnf_956.cnf: model file 'cnf_956.cnfmodel.txt' not found
+[MISSING MODEL] cnf_981.cnf: model file 'cnf_981.cnfmodel.txt' not found
+[MISSING MODEL] cnf_759.cnf: model file 'cnf_759.cnfmodel.txt' not found
+[MISSING MODEL] cnf_995.cnf: model file 'cnf_995.cnfmodel.txt' not found
+[VALID]   cnf_765.cnf
+[MISSING MODEL] cnf_771.cnf: model file 'cnf_771.cnfmodel.txt' not found
+[VALID]   cnf_836.cnf
+[MISSING MODEL] cnf_188.cnf: model file 'cnf_188.cnfmodel.txt' not found
+[MISSING MODEL] cnf_822.cnf: model file 'cnf_822.cnfmodel.txt' not found
+[MISSING MODEL] cnf_2.cnf: model file 'cnf_2.cnfmodel.txt' not found
+[MISSING MODEL] cnf_639.cnf: model file 'cnf_639.cnfmodel.txt' not found
+[MISSING MODEL] cnf_611.cnf: model file 'cnf_611.cnfmodel.txt' not found
+[MISSING MODEL] cnf_177.cnf: model file 'cnf_177.cnfmodel.txt' not found
+[MISSING MODEL] cnf_163.cnf: model file 'cnf_163.cnfmodel.txt' not found
+[MISSING MODEL] cnf_605.cnf: model file 'cnf_605.cnfmodel.txt' not found
+[MISSING MODEL] cnf_349.cnf: model file 'cnf_349.cnfmodel.txt' not found
+[MISSING MODEL] cnf_375.cnf: model file 'cnf_375.cnfmodel.txt' not found
+[MISSING MODEL] cnf_413.cnf: model file 'cnf_413.cnfmodel.txt' not found
+[MISSING MODEL] cnf_407.cnf: model file 'cnf_407.cnfmodel.txt' not found
+[MISSING MODEL] cnf_361.cnf: model file 'cnf_361.cnfmodel.txt' not found
+[MISSING MODEL] cnf_406.cnf: model file 'cnf_406.cnfmodel.txt' not found
+[MISSING MODEL] cnf_360.cnf: model file 'cnf_360.cnfmodel.txt' not found
+[VALID]   cnf_374.cnf
+[MISSING MODEL] cnf_412.cnf: model file 'cnf_412.cnfmodel.txt' not found
+[MISSING MODEL] cnf_348.cnf: model file 'cnf_348.cnfmodel.txt' not found
+[MISSING MODEL] cnf_162.cnf: model file 'cnf_162.cnfmodel.txt' not found
+[VALID]   cnf_604.cnf
+[MISSING MODEL] cnf_610.cnf: model file 'cnf_610.cnfmodel.txt' not found
+[MISSING MODEL] cnf_176.cnf: model file 'cnf_176.cnfmodel.txt' not found
+[VALID]   cnf_638.cnf
+[MISSING MODEL] cnf_3.cnf: model file 'cnf_3.cnfmodel.txt' not found
+[MISSING MODEL] cnf_823.cnf: model file 'cnf_823.cnfmodel.txt' not found
+[MISSING MODEL] cnf_837.cnf: model file 'cnf_837.cnfmodel.txt' not found
+[MISSING MODEL] cnf_189.cnf: model file 'cnf_189.cnfmodel.txt' not found
+[MISSING MODEL] cnf_770.cnf: model file 'cnf_770.cnfmodel.txt' not found
+[VALID]   cnf_764.cnf
+[MISSING MODEL] cnf_994.cnf: model file 'cnf_994.cnfmodel.txt' not found
+[MISSING MODEL] cnf_758.cnf: model file 'cnf_758.cnfmodel.txt' not found
+[VALID]   cnf_980.cnf
+[MISSING MODEL] cnf_957.cnf: model file 'cnf_957.cnfmodel.txt' not found
+[MISSING MODEL] cnf_943.cnf: model file 'cnf_943.cnfmodel.txt' not found
+[MISSING MODEL] cnf_572.cnf: model file 'cnf_572.cnfmodel.txt' not found
+[MISSING MODEL] cnf_214.cnf: model file 'cnf_214.cnfmodel.txt' not found
+[MISSING MODEL] cnf_63.cnf: model file 'cnf_63.cnfmodel.txt' not found
+[MISSING MODEL] cnf_200.cnf: model file 'cnf_200.cnfmodel.txt' not found
+[VALID]   cnf_77.cnf
+[MISSING MODEL] cnf_566.cnf: model file 'cnf_566.cnfmodel.txt' not found
+[VALID]   cnf_228.cnf
+[MISSING MODEL] cnf_88.cnf: model file 'cnf_88.cnfmodel.txt' not found
+[MISSING MODEL] cnf_599.cnf: model file 'cnf_599.cnfmodel.txt' not found
+[MISSING MODEL] cnf_98.cnf: model file 'cnf_98.cnfmodel.txt' not found
+[VALID]   cnf_589.cnf
+[VALID]   cnf_562.cnf
+[MISSING MODEL] cnf_73.cnf: model file 'cnf_73.cnfmodel.txt' not found
+[MISSING MODEL] cnf_204.cnf: model file 'cnf_204.cnfmodel.txt' not found
+[VALID]   cnf_67.cnf
+[MISSING MODEL] cnf_210.cnf: model file 'cnf_210.cnfmodel.txt' not found
+[MISSING MODEL] cnf_576.cnf: model file 'cnf_576.cnfmodel.txt' not found
+[MISSING MODEL] cnf_238.cnf: model file 'cnf_238.cnfmodel.txt' not found
+[MISSING MODEL] cnf_947.cnf: model file 'cnf_947.cnfmodel.txt' not found
+[VALID]   cnf_953.cnf
+[MISSING MODEL] cnf_760.cnf: model file 'cnf_760.cnfmodel.txt' not found
+[MISSING MODEL] cnf_774.cnf: model file 'cnf_774.cnfmodel.txt' not found
+[MISSING MODEL] cnf_984.cnf: model file 'cnf_984.cnfmodel.txt' not found
+[VALID]   cnf_990.cnf
+[MISSING MODEL] cnf_748.cnf: model file 'cnf_748.cnfmodel.txt' not found
+[MISSING MODEL] cnf_833.cnf: model file 'cnf_833.cnfmodel.txt' not found
+[MISSING MODEL] cnf_827.cnf: model file 'cnf_827.cnfmodel.txt' not found
+[MISSING MODEL] cnf_199.cnf: model file 'cnf_199.cnfmodel.txt' not found
+[VALID]   cnf_172.cnf
+[VALID]   cnf_614.cnf
+[VALID]   cnf_600.cnf
+[MISSING MODEL] cnf_166.cnf: model file 'cnf_166.cnfmodel.txt' not found
+[MISSING MODEL] cnf_7.cnf: model file 'cnf_7.cnfmodel.txt' not found
+[MISSING MODEL] cnf_628.cnf: model file 'cnf_628.cnfmodel.txt' not found
+[MISSING MODEL] cnf_416.cnf: model file 'cnf_416.cnfmodel.txt' not found
+[VALID]   cnf_370.cnf
+[VALID]   cnf_364.cnf
+[MISSING MODEL] cnf_402.cnf: model file 'cnf_402.cnfmodel.txt' not found
+[MISSING MODEL] cnf_358.cnf: model file 'cnf_358.cnfmodel.txt' not found
+[VALID]   cnf_359.cnf
+[MISSING MODEL] cnf_365.cnf: model file 'cnf_365.cnfmodel.txt' not found
+[MISSING MODEL] cnf_403.cnf: model file 'cnf_403.cnfmodel.txt' not found
+[MISSING MODEL] cnf_417.cnf: model file 'cnf_417.cnfmodel.txt' not found
+[VALID]   cnf_371.cnf
+[MISSING MODEL] cnf_6.cnf: model file 'cnf_6.cnfmodel.txt' not found
+[MISSING MODEL] cnf_629.cnf: model file 'cnf_629.cnfmodel.txt' not found
+[MISSING MODEL] cnf_601.cnf: model file 'cnf_601.cnfmodel.txt' not found
+[MISSING MODEL] cnf_167.cnf: model file 'cnf_167.cnfmodel.txt' not found
+[MISSING MODEL] cnf_173.cnf: model file 'cnf_173.cnfmodel.txt' not found
+[MISSING MODEL] cnf_615.cnf: model file 'cnf_615.cnfmodel.txt' not found
+[MISSING MODEL] cnf_826.cnf: model file 'cnf_826.cnfmodel.txt' not found
+[VALID]   cnf_198.cnf
+[VALID]   cnf_832.cnf
+[MISSING MODEL] cnf_749.cnf: model file 'cnf_749.cnfmodel.txt' not found
+[VALID]   cnf_991.cnf
+[MISSING MODEL] cnf_985.cnf: model file 'cnf_985.cnfmodel.txt' not found
+[MISSING MODEL] cnf_775.cnf: model file 'cnf_775.cnfmodel.txt' not found
+[MISSING MODEL] cnf_761.cnf: model file 'cnf_761.cnfmodel.txt' not found
+[VALID]   cnf_952.cnf
+[VALID]   cnf_946.cnf
+[MISSING MODEL] cnf_239.cnf: model file 'cnf_239.cnfmodel.txt' not found
+[MISSING MODEL] cnf_211.cnf: model file 'cnf_211.cnfmodel.txt' not found
+[MISSING MODEL] cnf_66.cnf: model file 'cnf_66.cnfmodel.txt' not found
+[VALID]   cnf_577.cnf
+[VALID]   cnf_563.cnf
+[VALID]   cnf_205.cnf
+[MISSING MODEL] cnf_72.cnf: model file 'cnf_72.cnfmodel.txt' not found
+[MISSING MODEL] cnf_99.cnf: model file 'cnf_99.cnfmodel.txt' not found
+[VALID]   cnf_588.cnf
+[MISSING MODEL] cnf_575.cnf: model file 'cnf_575.cnfmodel.txt' not found
+[MISSING MODEL] cnf_64.cnf: model file 'cnf_64.cnfmodel.txt' not found
+[MISSING MODEL] cnf_213.cnf: model file 'cnf_213.cnfmodel.txt' not found
+[MISSING MODEL] cnf_70.cnf: model file 'cnf_70.cnfmodel.txt' not found
+[MISSING MODEL] cnf_207.cnf: model file 'cnf_207.cnfmodel.txt' not found
+[MISSING MODEL] cnf_561.cnf: model file 'cnf_561.cnfmodel.txt' not found
+[MISSING MODEL] cnf_549.cnf: model file 'cnf_549.cnfmodel.txt' not found
+[MISSING MODEL] cnf_58.cnf: model file 'cnf_58.cnfmodel.txt' not found
+[MISSING MODEL] cnf_978.cnf: model file 'cnf_978.cnfmodel.txt' not found
+[MISSING MODEL] cnf_788.cnf: model file 'cnf_788.cnfmodel.txt' not found
+[MISSING MODEL] cnf_950.cnf: model file 'cnf_950.cnfmodel.txt' not found
+[MISSING MODEL] cnf_944.cnf: model file 'cnf_944.cnfmodel.txt' not found
+[VALID]   cnf_777.cnf
+[MISSING MODEL] cnf_763.cnf: model file 'cnf_763.cnfmodel.txt' not found
+[MISSING MODEL] cnf_993.cnf: model file 'cnf_993.cnfmodel.txt' not found
+[VALID]   cnf_987.cnf
+[MISSING MODEL] cnf_818.cnf: model file 'cnf_818.cnfmodel.txt' not found
+[MISSING MODEL] cnf_824.cnf: model file 'cnf_824.cnfmodel.txt' not found
+[MISSING MODEL] cnf_830.cnf: model file 'cnf_830.cnfmodel.txt' not found
+[MISSING MODEL] cnf_165.cnf: model file 'cnf_165.cnfmodel.txt' not found
+[MISSING MODEL] cnf_603.cnf: model file 'cnf_603.cnfmodel.txt' not found
+[MISSING MODEL] cnf_617.cnf: model file 'cnf_617.cnfmodel.txt' not found
+[MISSING MODEL] cnf_171.cnf: model file 'cnf_171.cnfmodel.txt' not found
+[MISSING MODEL] cnf_159.cnf: model file 'cnf_159.cnfmodel.txt' not found
+[MISSING MODEL] cnf_4.cnf: model file 'cnf_4.cnfmodel.txt' not found
+[MISSING MODEL] cnf_398.cnf: model file 'cnf_398.cnfmodel.txt' not found
+[MISSING MODEL] cnf_401.cnf: model file 'cnf_401.cnfmodel.txt' not found
+[MISSING MODEL] cnf_367.cnf: model file 'cnf_367.cnfmodel.txt' not found
+[MISSING MODEL] cnf_373.cnf: model file 'cnf_373.cnfmodel.txt' not found
+[VALID]   cnf_415.cnf
+[MISSING MODEL] cnf_429.cnf: model file 'cnf_429.cnfmodel.txt' not found
+[MISSING MODEL] cnf_428.cnf: model file 'cnf_428.cnfmodel.txt' not found
+[MISSING MODEL] cnf_372.cnf: model file 'cnf_372.cnfmodel.txt' not found
+[MISSING MODEL] cnf_414.cnf: model file 'cnf_414.cnfmodel.txt' not found
+[VALID]   cnf_400.cnf
+[MISSING MODEL] cnf_366.cnf: model file 'cnf_366.cnfmodel.txt' not found
+[VALID]   cnf_399.cnf
+[MISSING MODEL] cnf_5.cnf: model file 'cnf_5.cnfmodel.txt' not found
+[MISSING MODEL] cnf_158.cnf: model file 'cnf_158.cnfmodel.txt' not found
+[MISSING MODEL] cnf_616.cnf: model file 'cnf_616.cnfmodel.txt' not found
+[VALID]   cnf_170.cnf
+[MISSING MODEL] cnf_164.cnf: model file 'cnf_164.cnfmodel.txt' not found
+[MISSING MODEL] cnf_602.cnf: model file 'cnf_602.cnfmodel.txt' not found
+[MISSING MODEL] cnf_831.cnf: model file 'cnf_831.cnfmodel.txt' not found
+[MISSING MODEL] cnf_825.cnf: model file 'cnf_825.cnfmodel.txt' not found
+[MISSING MODEL] cnf_819.cnf: model file 'cnf_819.cnfmodel.txt' not found
+[VALID]   cnf_986.cnf
+[MISSING MODEL] cnf_992.cnf: model file 'cnf_992.cnfmodel.txt' not found
+[VALID]   cnf_762.cnf
+[MISSING MODEL] cnf_776.cnf: model file 'cnf_776.cnfmodel.txt' not found
+[VALID]   cnf_945.cnf
+[MISSING MODEL] cnf_951.cnf: model file 'cnf_951.cnfmodel.txt' not found
+[MISSING MODEL] cnf_789.cnf: model file 'cnf_789.cnfmodel.txt' not found
+[MISSING MODEL] cnf_979.cnf: model file 'cnf_979.cnfmodel.txt' not found
+[VALID]   cnf_548.cnf
+[MISSING MODEL] cnf_59.cnf: model file 'cnf_59.cnfmodel.txt' not found
+[MISSING MODEL] cnf_206.cnf: model file 'cnf_206.cnfmodel.txt' not found
+[MISSING MODEL] cnf_71.cnf: model file 'cnf_71.cnfmodel.txt' not found
+[MISSING MODEL] cnf_560.cnf: model file 'cnf_560.cnfmodel.txt' not found
+[MISSING MODEL] cnf_574.cnf: model file 'cnf_574.cnfmodel.txt' not found
+[MISSING MODEL] cnf_212.cnf: model file 'cnf_212.cnfmodel.txt' not found
+[MISSING MODEL] cnf_65.cnf: model file 'cnf_65.cnfmodel.txt' not found
+[MISSING MODEL] cnf_83.cnf: model file 'cnf_83.cnfmodel.txt' not found
+[MISSING MODEL] cnf_592.cnf: model file 'cnf_592.cnfmodel.txt' not found
+[MISSING MODEL] cnf_586.cnf: model file 'cnf_586.cnfmodel.txt' not found
+[VALID]   cnf_97.cnf
+[MISSING MODEL] cnf_579.cnf: model file 'cnf_579.cnfmodel.txt' not found
+[MISSING MODEL] cnf_68.cnf: model file 'cnf_68.cnfmodel.txt' not found
+[VALID]   cnf_40.cnf
+[MISSING MODEL] cnf_237.cnf: model file 'cnf_237.cnfmodel.txt' not found
+[MISSING MODEL] cnf_551.cnf: model file 'cnf_551.cnfmodel.txt' not found
+[MISSING MODEL] cnf_545.cnf: model file 'cnf_545.cnfmodel.txt' not found
+[MISSING MODEL] cnf_54.cnf: model file 'cnf_54.cnfmodel.txt' not found
+[MISSING MODEL] cnf_223.cnf: model file 'cnf_223.cnfmodel.txt' not found
+[MISSING MODEL] cnf_974.cnf: model file 'cnf_974.cnfmodel.txt' not found
+[VALID]   cnf_960.cnf
+[MISSING MODEL] cnf_790.cnf: model file 'cnf_790.cnfmodel.txt' not found
+[MISSING MODEL] cnf_948.cnf: model file 'cnf_948.cnfmodel.txt' not found
+[VALID]   cnf_784.cnf
+[MISSING MODEL] cnf_753.cnf: model file 'cnf_753.cnfmodel.txt' not found
+[MISSING MODEL] cnf_747.cnf: model file 'cnf_747.cnfmodel.txt' not found
+[MISSING MODEL] cnf_800.cnf: model file 'cnf_800.cnfmodel.txt' not found
+[MISSING MODEL] cnf_814.cnf: model file 'cnf_814.cnfmodel.txt' not found
+[MISSING MODEL] cnf_182.cnf: model file 'cnf_182.cnfmodel.txt' not found
+[MISSING MODEL] cnf_196.cnf: model file 'cnf_196.cnfmodel.txt' not found
+[MISSING MODEL] cnf_828.cnf: model file 'cnf_828.cnfmodel.txt' not found
+[MISSING MODEL] cnf_169.cnf: model file 'cnf_169.cnfmodel.txt' not found
+[VALID]   cnf_627.cnf
+[MISSING MODEL] cnf_8.cnf: model file 'cnf_8.cnfmodel.txt' not found
+[VALID]   cnf_141.cnf
+[VALID]   cnf_155.cnf
+[MISSING MODEL] cnf_633.cnf: model file 'cnf_633.cnfmodel.txt' not found
+[MISSING MODEL] cnf_380.cnf: model file 'cnf_380.cnfmodel.txt' not found
+[MISSING MODEL] cnf_394.cnf: model file 'cnf_394.cnfmodel.txt' not found
+[MISSING MODEL] cnf_419.cnf: model file 'cnf_419.cnfmodel.txt' not found
+[MISSING MODEL] cnf_343.cnf: model file 'cnf_343.cnfmodel.txt' not found
+[MISSING MODEL] cnf_425.cnf: model file 'cnf_425.cnfmodel.txt' not found
+[VALID]   cnf_431.cnf
+[MISSING MODEL] cnf_357.cnf: model file 'cnf_357.cnfmodel.txt' not found
+[MISSING MODEL] cnf_430.cnf: model file 'cnf_430.cnfmodel.txt' not found
+[MISSING MODEL] cnf_356.cnf: model file 'cnf_356.cnfmodel.txt' not found
+[MISSING MODEL] cnf_342.cnf: model file 'cnf_342.cnfmodel.txt' not found
+[MISSING MODEL] cnf_424.cnf: model file 'cnf_424.cnfmodel.txt' not found
+[MISSING MODEL] cnf_418.cnf: model file 'cnf_418.cnfmodel.txt' not found
+[MISSING MODEL] cnf_395.cnf: model file 'cnf_395.cnfmodel.txt' not found
+[MISSING MODEL] cnf_381.cnf: model file 'cnf_381.cnfmodel.txt' not found
+[MISSING MODEL] cnf_154.cnf: model file 'cnf_154.cnfmodel.txt' not found
+[MISSING MODEL] cnf_632.cnf: model file 'cnf_632.cnfmodel.txt' not found
+[VALID]   cnf_626.cnf
+[MISSING MODEL] cnf_140.cnf: model file 'cnf_140.cnfmodel.txt' not found
+[VALID]   cnf_9.cnf
+[VALID]   cnf_168.cnf
+[MISSING MODEL] cnf_197.cnf: model file 'cnf_197.cnfmodel.txt' not found
+[MISSING MODEL] cnf_829.cnf: model file 'cnf_829.cnfmodel.txt' not found
+[MISSING MODEL] cnf_183.cnf: model file 'cnf_183.cnfmodel.txt' not found
+[MISSING MODEL] cnf_815.cnf: model file 'cnf_815.cnfmodel.txt' not found
+[MISSING MODEL] cnf_801.cnf: model file 'cnf_801.cnfmodel.txt' not found
+[MISSING MODEL] cnf_746.cnf: model file 'cnf_746.cnfmodel.txt' not found
+[MISSING MODEL] cnf_752.cnf: model file 'cnf_752.cnfmodel.txt' not found
+[MISSING MODEL] cnf_785.cnf: model file 'cnf_785.cnfmodel.txt' not found
+[VALID]   cnf_949.cnf
+[VALID]   cnf_791.cnf
+[MISSING MODEL] cnf_961.cnf: model file 'cnf_961.cnfmodel.txt' not found
+[MISSING MODEL] cnf_975.cnf: model file 'cnf_975.cnfmodel.txt' not found
+[VALID]   cnf_544.cnf
+[MISSING MODEL] cnf_222.cnf: model file 'cnf_222.cnfmodel.txt' not found
+[MISSING MODEL] cnf_55.cnf: model file 'cnf_55.cnfmodel.txt' not found
+[VALID]   cnf_236.cnf
+[VALID]   cnf_41.cnf
+[MISSING MODEL] cnf_550.cnf: model file 'cnf_550.cnfmodel.txt' not found
+[MISSING MODEL] cnf_578.cnf: model file 'cnf_578.cnfmodel.txt' not found
+[MISSING MODEL] cnf_69.cnf: model file 'cnf_69.cnfmodel.txt' not found
+[MISSING MODEL] cnf_587.cnf: model file 'cnf_587.cnfmodel.txt' not found
+[MISSING MODEL] cnf_96.cnf: model file 'cnf_96.cnfmodel.txt' not found
+[MISSING MODEL] cnf_82.cnf: model file 'cnf_82.cnfmodel.txt' not found
+[MISSING MODEL] cnf_593.cnf: model file 'cnf_593.cnfmodel.txt' not found
+[MISSING MODEL] cnf_94.cnf: model file 'cnf_94.cnfmodel.txt' not found
+[VALID]   cnf_585.cnf
+[MISSING MODEL] cnf_591.cnf: model file 'cnf_591.cnfmodel.txt' not found
+[MISSING MODEL] cnf_80.cnf: model file 'cnf_80.cnfmodel.txt' not found
+[MISSING MODEL] cnf_208.cnf: model file 'cnf_208.cnfmodel.txt' not found
+[MISSING MODEL] cnf_57.cnf: model file 'cnf_57.cnfmodel.txt' not found
+[VALID]   cnf_220.cnf
+[MISSING MODEL] cnf_546.cnf: model file 'cnf_546.cnfmodel.txt' not found
+[MISSING MODEL] cnf_552.cnf: model file 'cnf_552.cnfmodel.txt' not found
+[MISSING MODEL] cnf_43.cnf: model file 'cnf_43.cnfmodel.txt' not found
+[MISSING MODEL] cnf_234.cnf: model file 'cnf_234.cnfmodel.txt' not found
+[MISSING MODEL] cnf_963.cnf: model file 'cnf_963.cnfmodel.txt' not found
+[MISSING MODEL] cnf_977.cnf: model file 'cnf_977.cnfmodel.txt' not found
+[MISSING MODEL] cnf_787.cnf: model file 'cnf_787.cnfmodel.txt' not found
+[MISSING MODEL] cnf_793.cnf: model file 'cnf_793.cnfmodel.txt' not found
+[MISSING MODEL] cnf_778.cnf: model file 'cnf_778.cnfmodel.txt' not found
+[MISSING MODEL] cnf_744.cnf: model file 'cnf_744.cnfmodel.txt' not found
+[MISSING MODEL] cnf_988.cnf: model file 'cnf_988.cnfmodel.txt' not found
+[MISSING MODEL] cnf_750.cnf: model file 'cnf_750.cnfmodel.txt' not found
+[MISSING MODEL] cnf_817.cnf: model file 'cnf_817.cnfmodel.txt' not found
+[MISSING MODEL] cnf_803.cnf: model file 'cnf_803.cnfmodel.txt' not found
+[MISSING MODEL] cnf_195.cnf: model file 'cnf_195.cnfmodel.txt' not found
+[MISSING MODEL] cnf_181.cnf: model file 'cnf_181.cnfmodel.txt' not found
+[MISSING MODEL] cnf_618.cnf: model file 'cnf_618.cnfmodel.txt' not found
+[MISSING MODEL] cnf_630.cnf: model file 'cnf_630.cnfmodel.txt' not found
+[VALID]   cnf_156.cnf
+[VALID]   cnf_142.cnf
+[MISSING MODEL] cnf_624.cnf: model file 'cnf_624.cnfmodel.txt' not found
+[MISSING MODEL] cnf_397.cnf: model file 'cnf_397.cnfmodel.txt' not found
+[VALID]   cnf_383.cnf
+[MISSING MODEL] cnf_368.cnf: model file 'cnf_368.cnfmodel.txt' not found
+[MISSING MODEL] cnf_354.cnf: model file 'cnf_354.cnfmodel.txt' not found
+[MISSING MODEL] cnf_432.cnf: model file 'cnf_432.cnfmodel.txt' not found
+[MISSING MODEL] cnf_426.cnf: model file 'cnf_426.cnfmodel.txt' not found
+[MISSING MODEL] cnf_340.cnf: model file 'cnf_340.cnfmodel.txt' not found
+[MISSING MODEL] cnf_427.cnf: model file 'cnf_427.cnfmodel.txt' not found
+[VALID]   cnf_341.cnf
+[MISSING MODEL] cnf_355.cnf: model file 'cnf_355.cnfmodel.txt' not found
+[MISSING MODEL] cnf_433.cnf: model file 'cnf_433.cnfmodel.txt' not found
+[MISSING MODEL] cnf_369.cnf: model file 'cnf_369.cnfmodel.txt' not found
+[VALID]   cnf_382.cnf
+[MISSING MODEL] cnf_396.cnf: model file 'cnf_396.cnfmodel.txt' not found
+[MISSING MODEL] cnf_143.cnf: model file 'cnf_143.cnfmodel.txt' not found
+[VALID]   cnf_625.cnf
+[MISSING MODEL] cnf_631.cnf: model file 'cnf_631.cnfmodel.txt' not found
+[MISSING MODEL] cnf_157.cnf: model file 'cnf_157.cnfmodel.txt' not found
+[VALID]   cnf_619.cnf
+[MISSING MODEL] cnf_180.cnf: model file 'cnf_180.cnfmodel.txt' not found
+[MISSING MODEL] cnf_194.cnf: model file 'cnf_194.cnfmodel.txt' not found
+[MISSING MODEL] cnf_802.cnf: model file 'cnf_802.cnfmodel.txt' not found
+[MISSING MODEL] cnf_816.cnf: model file 'cnf_816.cnfmodel.txt' not found
+[MISSING MODEL] cnf_751.cnf: model file 'cnf_751.cnfmodel.txt' not found
+[MISSING MODEL] cnf_989.cnf: model file 'cnf_989.cnfmodel.txt' not found
+[MISSING MODEL] cnf_745.cnf: model file 'cnf_745.cnfmodel.txt' not found
+[VALID]   cnf_779.cnf
+[MISSING MODEL] cnf_792.cnf: model file 'cnf_792.cnfmodel.txt' not found
+[MISSING MODEL] cnf_786.cnf: model file 'cnf_786.cnfmodel.txt' not found
+[MISSING MODEL] cnf_976.cnf: model file 'cnf_976.cnfmodel.txt' not found
+[MISSING MODEL] cnf_962.cnf: model file 'cnf_962.cnfmodel.txt' not found
+[MISSING MODEL] cnf_553.cnf: model file 'cnf_553.cnfmodel.txt' not found
+[MISSING MODEL] cnf_235.cnf: model file 'cnf_235.cnfmodel.txt' not found
+[VALID]   cnf_42.cnf
+[VALID]   cnf_221.cnf
+[MISSING MODEL] cnf_56.cnf: model file 'cnf_56.cnfmodel.txt' not found
+[VALID]   cnf_547.cnf
+[MISSING MODEL] cnf_209.cnf: model file 'cnf_209.cnfmodel.txt' not found
+[MISSING MODEL] cnf_590.cnf: model file 'cnf_590.cnfmodel.txt' not found
+[VALID]   cnf_81.cnf
+[MISSING MODEL] cnf_95.cnf: model file 'cnf_95.cnfmodel.txt' not found
+[VALID]   cnf_584.cnf
+[MISSING MODEL] cnf_580.cnf: model file 'cnf_580.cnfmodel.txt' not found
+[MISSING MODEL] cnf_91.cnf: model file 'cnf_91.cnfmodel.txt' not found
+[MISSING MODEL] cnf_85.cnf: model file 'cnf_85.cnfmodel.txt' not found
+[MISSING MODEL] cnf_594.cnf: model file 'cnf_594.cnfmodel.txt' not found
+[MISSING MODEL] cnf_543.cnf: model file 'cnf_543.cnfmodel.txt' not found
+[MISSING MODEL] cnf_52.cnf: model file 'cnf_52.cnfmodel.txt' not found
+[MISSING MODEL] cnf_225.cnf: model file 'cnf_225.cnfmodel.txt' not found
+[MISSING MODEL] cnf_46.cnf: model file 'cnf_46.cnfmodel.txt' not found
+[MISSING MODEL] cnf_231.cnf: model file 'cnf_231.cnfmodel.txt' not found
+[MISSING MODEL] cnf_557.cnf: model file 'cnf_557.cnfmodel.txt' not found
+[MISSING MODEL] cnf_219.cnf: model file 'cnf_219.cnfmodel.txt' not found
+[VALID]   cnf_782.cnf
+[MISSING MODEL] cnf_796.cnf: model file 'cnf_796.cnfmodel.txt' not found
+[MISSING MODEL] cnf_966.cnf: model file 'cnf_966.cnfmodel.txt' not found
+[VALID]   cnf_972.cnf
+[MISSING MODEL] cnf_999.cnf: model file 'cnf_999.cnfmodel.txt' not found
+[MISSING MODEL] cnf_741.cnf: model file 'cnf_741.cnfmodel.txt' not found
+[MISSING MODEL] cnf_755.cnf: model file 'cnf_755.cnfmodel.txt' not found
+[VALID]   cnf_769.cnf
+[MISSING MODEL] cnf_190.cnf: model file 'cnf_190.cnfmodel.txt' not found
+[MISSING MODEL] cnf_184.cnf: model file 'cnf_184.cnfmodel.txt' not found
+[MISSING MODEL] cnf_812.cnf: model file 'cnf_812.cnfmodel.txt' not found
+[VALID]   cnf_806.cnf
+[MISSING MODEL] cnf_153.cnf: model file 'cnf_153.cnfmodel.txt' not found
+[MISSING MODEL] cnf_635.cnf: model file 'cnf_635.cnfmodel.txt' not found
+[MISSING MODEL] cnf_621.cnf: model file 'cnf_621.cnfmodel.txt' not found
+[MISSING MODEL] cnf_147.cnf: model file 'cnf_147.cnfmodel.txt' not found
+[VALID]   cnf_609.cnf
+[MISSING MODEL] cnf_392.cnf: model file 'cnf_392.cnfmodel.txt' not found
+[MISSING MODEL] cnf_386.cnf: model file 'cnf_386.cnfmodel.txt' not found
+[MISSING MODEL] cnf_437.cnf: model file 'cnf_437.cnfmodel.txt' not found
+[MISSING MODEL] cnf_351.cnf: model file 'cnf_351.cnfmodel.txt' not found
+[MISSING MODEL] cnf_345.cnf: model file 'cnf_345.cnfmodel.txt' not found
+[VALID]   cnf_423.cnf
+[MISSING MODEL] cnf_379.cnf: model file 'cnf_379.cnfmodel.txt' not found
+[MISSING MODEL] cnf_378.cnf: model file 'cnf_378.cnfmodel.txt' not found
+[VALID]   cnf_344.cnf
+[MISSING MODEL] cnf_422.cnf: model file 'cnf_422.cnfmodel.txt' not found
+[MISSING MODEL] cnf_436.cnf: model file 'cnf_436.cnfmodel.txt' not found
+[MISSING MODEL] cnf_350.cnf: model file 'cnf_350.cnfmodel.txt' not found
+[MISSING MODEL] cnf_387.cnf: model file 'cnf_387.cnfmodel.txt' not found
+[MISSING MODEL] cnf_393.cnf: model file 'cnf_393.cnfmodel.txt' not found
+[VALID]   cnf_608.cnf
+[MISSING MODEL] cnf_620.cnf: model file 'cnf_620.cnfmodel.txt' not found
+[MISSING MODEL] cnf_146.cnf: model file 'cnf_146.cnfmodel.txt' not found
+[MISSING MODEL] cnf_152.cnf: model file 'cnf_152.cnfmodel.txt' not found
+[MISSING MODEL] cnf_634.cnf: model file 'cnf_634.cnfmodel.txt' not found
+[VALID]   cnf_807.cnf
+[MISSING MODEL] cnf_813.cnf: model file 'cnf_813.cnfmodel.txt' not found
+[MISSING MODEL] cnf_185.cnf: model file 'cnf_185.cnfmodel.txt' not found
+[VALID]   cnf_191.cnf
+[VALID]   cnf_768.cnf
+[MISSING MODEL] cnf_754.cnf: model file 'cnf_754.cnfmodel.txt' not found
+[MISSING MODEL] cnf_740.cnf: model file 'cnf_740.cnfmodel.txt' not found
+[MISSING MODEL] cnf_998.cnf: model file 'cnf_998.cnfmodel.txt' not found
+[MISSING MODEL] cnf_973.cnf: model file 'cnf_973.cnfmodel.txt' not found
+[VALID]   cnf_967.cnf
+[MISSING MODEL] cnf_797.cnf: model file 'cnf_797.cnfmodel.txt' not found
+[VALID]   cnf_783.cnf
+[MISSING MODEL] cnf_218.cnf: model file 'cnf_218.cnfmodel.txt' not found
+[MISSING MODEL] cnf_230.cnf: model file 'cnf_230.cnfmodel.txt' not found
+[VALID]   cnf_47.cnf
+[MISSING MODEL] cnf_556.cnf: model file 'cnf_556.cnfmodel.txt' not found
+[MISSING MODEL] cnf_542.cnf: model file 'cnf_542.cnfmodel.txt' not found
+[VALID]   cnf_224.cnf
+[MISSING MODEL] cnf_53.cnf: model file 'cnf_53.cnfmodel.txt' not found
+[MISSING MODEL] cnf_84.cnf: model file 'cnf_84.cnfmodel.txt' not found
+[MISSING MODEL] cnf_595.cnf: model file 'cnf_595.cnfmodel.txt' not found
+[VALID]   cnf_581.cnf
+[VALID]   cnf_90.cnf
+[MISSING MODEL] cnf_597.cnf: model file 'cnf_597.cnfmodel.txt' not found
+[MISSING MODEL] cnf_86.cnf: model file 'cnf_86.cnfmodel.txt' not found
+[VALID]   cnf_92.cnf
+[MISSING MODEL] cnf_583.cnf: model file 'cnf_583.cnfmodel.txt' not found
+[MISSING MODEL] cnf_554.cnf: model file 'cnf_554.cnfmodel.txt' not found
+[VALID]   cnf_45.cnf
+[VALID]   cnf_232.cnf
+[MISSING MODEL] cnf_51.cnf: model file 'cnf_51.cnfmodel.txt' not found
+[MISSING MODEL] cnf_226.cnf: model file 'cnf_226.cnfmodel.txt' not found
+[VALID]   cnf_540.cnf
+[MISSING MODEL] cnf_568.cnf: model file 'cnf_568.cnfmodel.txt' not found
+[MISSING MODEL] cnf_79.cnf: model file 'cnf_79.cnfmodel.txt' not found
+[MISSING MODEL] cnf_795.cnf: model file 'cnf_795.cnfmodel.txt' not found
+[MISSING MODEL] cnf_781.cnf: model file 'cnf_781.cnfmodel.txt' not found
+[MISSING MODEL] cnf_959.cnf: model file 'cnf_959.cnfmodel.txt' not found
+[MISSING MODEL] cnf_971.cnf: model file 'cnf_971.cnfmodel.txt' not found
+[MISSING MODEL] cnf_965.cnf: model file 'cnf_965.cnfmodel.txt' not found
+[MISSING MODEL] cnf_756.cnf: model file 'cnf_756.cnfmodel.txt' not found
+[VALID]   cnf_742.cnf
+[MISSING MODEL] cnf_187.cnf: model file 'cnf_187.cnfmodel.txt' not found
+[MISSING MODEL] cnf_839.cnf: model file 'cnf_839.cnfmodel.txt' not found
+[MISSING MODEL] cnf_193.cnf: model file 'cnf_193.cnfmodel.txt' not found
+[MISSING MODEL] cnf_805.cnf: model file 'cnf_805.cnfmodel.txt' not found
+[MISSING MODEL] cnf_811.cnf: model file 'cnf_811.cnfmodel.txt' not found
+[MISSING MODEL] cnf_144.cnf: model file 'cnf_144.cnfmodel.txt' not found
+[MISSING MODEL] cnf_622.cnf: model file 'cnf_622.cnfmodel.txt' not found
+[MISSING MODEL] cnf_636.cnf: model file 'cnf_636.cnfmodel.txt' not found
+[VALID]   cnf_150.cnf
+[MISSING MODEL] cnf_178.cnf: model file 'cnf_178.cnfmodel.txt' not found
+[MISSING MODEL] cnf_385.cnf: model file 'cnf_385.cnfmodel.txt' not found
+[MISSING MODEL] cnf_391.cnf: model file 'cnf_391.cnfmodel.txt' not found
+[MISSING MODEL] cnf_420.cnf: model file 'cnf_420.cnfmodel.txt' not found
+[MISSING MODEL] cnf_346.cnf: model file 'cnf_346.cnfmodel.txt' not found
+[MISSING MODEL] cnf_352.cnf: model file 'cnf_352.cnfmodel.txt' not found
+[MISSING MODEL] cnf_434.cnf: model file 'cnf_434.cnfmodel.txt' not found
+[MISSING MODEL] cnf_408.cnf: model file 'cnf_408.cnfmodel.txt' not found
+[MISSING MODEL] cnf_409.cnf: model file 'cnf_409.cnfmodel.txt' not found
+[MISSING MODEL] cnf_353.cnf: model file 'cnf_353.cnfmodel.txt' not found
+[MISSING MODEL] cnf_435.cnf: model file 'cnf_435.cnfmodel.txt' not found
+[MISSING MODEL] cnf_421.cnf: model file 'cnf_421.cnfmodel.txt' not found
+[MISSING MODEL] cnf_347.cnf: model file 'cnf_347.cnfmodel.txt' not found
+[VALID]   cnf_390.cnf
+[VALID]   cnf_384.cnf
+[VALID]   cnf_179.cnf
+[MISSING MODEL] cnf_637.cnf: model file 'cnf_637.cnfmodel.txt' not found
+[MISSING MODEL] cnf_151.cnf: model file 'cnf_151.cnfmodel.txt' not found
+[MISSING MODEL] cnf_145.cnf: model file 'cnf_145.cnfmodel.txt' not found
+[VALID]   cnf_623.cnf
+[VALID]   cnf_810.cnf
+[MISSING MODEL] cnf_804.cnf: model file 'cnf_804.cnfmodel.txt' not found
+[MISSING MODEL] cnf_192.cnf: model file 'cnf_192.cnfmodel.txt' not found
+[VALID]   cnf_186.cnf
+[MISSING MODEL] cnf_838.cnf: model file 'cnf_838.cnfmodel.txt' not found
+[MISSING MODEL] cnf_743.cnf: model file 'cnf_743.cnfmodel.txt' not found
+[MISSING MODEL] cnf_757.cnf: model file 'cnf_757.cnfmodel.txt' not found
+[VALID]   cnf_964.cnf
+[MISSING MODEL] cnf_970.cnf: model file 'cnf_970.cnfmodel.txt' not found
+[MISSING MODEL] cnf_958.cnf: model file 'cnf_958.cnfmodel.txt' not found
+[MISSING MODEL] cnf_780.cnf: model file 'cnf_780.cnfmodel.txt' not found
+[MISSING MODEL] cnf_794.cnf: model file 'cnf_794.cnfmodel.txt' not found
+[MISSING MODEL] cnf_569.cnf: model file 'cnf_569.cnfmodel.txt' not found
+[VALID]   cnf_78.cnf
+[MISSING MODEL] cnf_227.cnf: model file 'cnf_227.cnfmodel.txt' not found
+[MISSING MODEL] cnf_50.cnf: model file 'cnf_50.cnfmodel.txt' not found
+[MISSING MODEL] cnf_541.cnf: model file 'cnf_541.cnfmodel.txt' not found
+[VALID]   cnf_555.cnf
+[MISSING MODEL] cnf_233.cnf: model file 'cnf_233.cnfmodel.txt' not found
+[VALID]   cnf_44.cnf
+[MISSING MODEL] cnf_93.cnf: model file 'cnf_93.cnfmodel.txt' not found
+[MISSING MODEL] cnf_582.cnf: model file 'cnf_582.cnfmodel.txt' not found
+[VALID]   cnf_596.cnf
+[MISSING MODEL] cnf_87.cnf: model file 'cnf_87.cnfmodel.txt' not found
+[MISSING MODEL] cnf_297.cnf: model file 'cnf_297.cnfmodel.txt' not found
+[MISSING MODEL] cnf_283.cnf: model file 'cnf_283.cnfmodel.txt' not found
+[MISSING MODEL] cnf_268.cnf: model file 'cnf_268.cnfmodel.txt' not found
+[MISSING MODEL] cnf_532.cnf: model file 'cnf_532.cnfmodel.txt' not found
+[MISSING MODEL] cnf_23.cnf: model file 'cnf_23.cnfmodel.txt' not found
+[MISSING MODEL] cnf_254.cnf: model file 'cnf_254.cnfmodel.txt' not found
+[MISSING MODEL] cnf_37.cnf: model file 'cnf_37.cnfmodel.txt' not found
+[VALID]   cnf_240.cnf
+[MISSING MODEL] cnf_526.cnf: model file 'cnf_526.cnfmodel.txt' not found
+[MISSING MODEL] cnf_917.cnf: model file 'cnf_917.cnfmodel.txt' not found
+[MISSING MODEL] cnf_903.cnf: model file 'cnf_903.cnfmodel.txt' not found
+[MISSING MODEL] cnf_718.cnf: model file 'cnf_718.cnfmodel.txt' not found
+[MISSING MODEL] cnf_730.cnf: model file 'cnf_730.cnfmodel.txt' not found
+[MISSING MODEL] cnf_724.cnf: model file 'cnf_724.cnfmodel.txt' not found
+[VALID]   cnf_863.cnf
+[MISSING MODEL] cnf_877.cnf: model file 'cnf_877.cnfmodel.txt' not found
+[MISSING MODEL] cnf_687.cnf: model file 'cnf_687.cnfmodel.txt' not found
+[MISSING MODEL] cnf_693.cnf: model file 'cnf_693.cnfmodel.txt' not found
+[VALID]   cnf_678.cnf
+[MISSING MODEL] cnf_122.cnf: model file 'cnf_122.cnfmodel.txt' not found
+[MISSING MODEL] cnf_644.cnf: model file 'cnf_644.cnfmodel.txt' not found
+[MISSING MODEL] cnf_650.cnf: model file 'cnf_650.cnfmodel.txt' not found
+[MISSING MODEL] cnf_888.cnf: model file 'cnf_888.cnfmodel.txt' not found
+[MISSING MODEL] cnf_136.cnf: model file 'cnf_136.cnfmodel.txt' not found
+[MISSING MODEL] cnf_485.cnf: model file 'cnf_485.cnfmodel.txt' not found
+[VALID]   cnf_491.cnf
+[MISSING MODEL] cnf_308.cnf: model file 'cnf_308.cnfmodel.txt' not found
+[VALID]   cnf_446.cnf
+[MISSING MODEL] cnf_320.cnf: model file 'cnf_320.cnfmodel.txt' not found
+[MISSING MODEL] cnf_1000.cnf: model file 'cnf_1000.cnfmodel.txt' not found
+[MISSING MODEL] cnf_334.cnf: model file 'cnf_334.cnfmodel.txt' not found
+[MISSING MODEL] cnf_452.cnf: model file 'cnf_452.cnfmodel.txt' not found
+[MISSING MODEL] cnf_335.cnf: model file 'cnf_335.cnfmodel.txt' not found
+[MISSING MODEL] cnf_453.cnf: model file 'cnf_453.cnfmodel.txt' not found
+[MISSING MODEL] cnf_447.cnf: model file 'cnf_447.cnfmodel.txt' not found
+[MISSING MODEL] cnf_321.cnf: model file 'cnf_321.cnfmodel.txt' not found
+[MISSING MODEL] cnf_309.cnf: model file 'cnf_309.cnfmodel.txt' not found
+[MISSING MODEL] cnf_490.cnf: model file 'cnf_490.cnfmodel.txt' not found
+[MISSING MODEL] cnf_484.cnf: model file 'cnf_484.cnfmodel.txt' not found
+[MISSING MODEL] cnf_889.cnf: model file 'cnf_889.cnfmodel.txt' not found
+[MISSING MODEL] cnf_651.cnf: model file 'cnf_651.cnfmodel.txt' not found
+[VALID]   cnf_137.cnf
+[MISSING MODEL] cnf_123.cnf: model file 'cnf_123.cnfmodel.txt' not found
+[VALID]   cnf_645.cnf
+[MISSING MODEL] cnf_679.cnf: model file 'cnf_679.cnfmodel.txt' not found
+[MISSING MODEL] cnf_692.cnf: model file 'cnf_692.cnfmodel.txt' not found
+[MISSING MODEL] cnf_686.cnf: model file 'cnf_686.cnfmodel.txt' not found
+[MISSING MODEL] cnf_876.cnf: model file 'cnf_876.cnfmodel.txt' not found
+[MISSING MODEL] cnf_862.cnf: model file 'cnf_862.cnfmodel.txt' not found
+[MISSING MODEL] cnf_725.cnf: model file 'cnf_725.cnfmodel.txt' not found
+[MISSING MODEL] cnf_731.cnf: model file 'cnf_731.cnfmodel.txt' not found
+[MISSING MODEL] cnf_719.cnf: model file 'cnf_719.cnfmodel.txt' not found
+[MISSING MODEL] cnf_902.cnf: model file 'cnf_902.cnfmodel.txt' not found
+[MISSING MODEL] cnf_916.cnf: model file 'cnf_916.cnfmodel.txt' not found
+[MISSING MODEL] cnf_241.cnf: model file 'cnf_241.cnfmodel.txt' not found
+[MISSING MODEL] cnf_36.cnf: model file 'cnf_36.cnfmodel.txt' not found
+[MISSING MODEL] cnf_527.cnf: model file 'cnf_527.cnfmodel.txt' not found
+[MISSING MODEL] cnf_533.cnf: model file 'cnf_533.cnfmodel.txt' not found
+[VALID]   cnf_255.cnf
+[VALID]   cnf_22.cnf
+[VALID]   cnf_269.cnf
+[VALID]   cnf_282.cnf
+[VALID]   cnf_296.cnf
+[MISSING MODEL] cnf_280.cnf: model file 'cnf_280.cnfmodel.txt' not found
+[MISSING MODEL] cnf_294.cnf: model file 'cnf_294.cnfmodel.txt' not found
+[MISSING MODEL] cnf_519.cnf: model file 'cnf_519.cnfmodel.txt' not found
+[MISSING MODEL] cnf_525.cnf: model file 'cnf_525.cnfmodel.txt' not found
+[MISSING MODEL] cnf_34.cnf: model file 'cnf_34.cnfmodel.txt' not found
+[MISSING MODEL] cnf_243.cnf: model file 'cnf_243.cnfmodel.txt' not found
+[MISSING MODEL] cnf_20.cnf: model file 'cnf_20.cnfmodel.txt' not found
+[MISSING MODEL] cnf_257.cnf: model file 'cnf_257.cnfmodel.txt' not found
+[MISSING MODEL] cnf_531.cnf: model file 'cnf_531.cnfmodel.txt' not found
+[VALID]   cnf_900.cnf
+[MISSING MODEL] cnf_914.cnf: model file 'cnf_914.cnfmodel.txt' not found
+[MISSING MODEL] cnf_928.cnf: model file 'cnf_928.cnfmodel.txt' not found
+[VALID]   cnf_727.cnf
+[MISSING MODEL] cnf_733.cnf: model file 'cnf_733.cnfmodel.txt' not found
+[MISSING MODEL] cnf_874.cnf: model file 'cnf_874.cnfmodel.txt' not found
+[MISSING MODEL] cnf_860.cnf: model file 'cnf_860.cnfmodel.txt' not found
+[MISSING MODEL] cnf_848.cnf: model file 'cnf_848.cnfmodel.txt' not found
+[VALID]   cnf_690.cnf
+[MISSING MODEL] cnf_684.cnf: model file 'cnf_684.cnfmodel.txt' not found
+[MISSING MODEL] cnf_109.cnf: model file 'cnf_109.cnfmodel.txt' not found
+[VALID]   cnf_135.cnf
+[VALID]   cnf_653.cnf
+[MISSING MODEL] cnf_647.cnf: model file 'cnf_647.cnfmodel.txt' not found
+[MISSING MODEL] cnf_121.cnf: model file 'cnf_121.cnfmodel.txt' not found
+[MISSING MODEL] cnf_492.cnf: model file 'cnf_492.cnfmodel.txt' not found
+[MISSING MODEL] cnf_486.cnf: model file 'cnf_486.cnfmodel.txt' not found
+[VALID]   cnf_479.cnf
+[MISSING MODEL] cnf_451.cnf: model file 'cnf_451.cnfmodel.txt' not found
+[VALID]   cnf_337.cnf
+[MISSING MODEL] cnf_323.cnf: model file 'cnf_323.cnfmodel.txt' not found
+[VALID]   cnf_445.cnf
+[VALID]   cnf_322.cnf
+[MISSING MODEL] cnf_444.cnf: model file 'cnf_444.cnfmodel.txt' not found
+[MISSING MODEL] cnf_450.cnf: model file 'cnf_450.cnfmodel.txt' not found
+[MISSING MODEL] cnf_336.cnf: model file 'cnf_336.cnfmodel.txt' not found
+[MISSING MODEL] cnf_478.cnf: model file 'cnf_478.cnfmodel.txt' not found
+[VALID]   cnf_487.cnf
+[MISSING MODEL] cnf_493.cnf: model file 'cnf_493.cnfmodel.txt' not found
+[VALID]   cnf_646.cnf
+[VALID]   cnf_120.cnf
+[MISSING MODEL] cnf_134.cnf: model file 'cnf_134.cnfmodel.txt' not found
+[MISSING MODEL] cnf_652.cnf: model file 'cnf_652.cnfmodel.txt' not found
+[MISSING MODEL] cnf_108.cnf: model file 'cnf_108.cnfmodel.txt' not found
+[MISSING MODEL] cnf_685.cnf: model file 'cnf_685.cnfmodel.txt' not found
+[MISSING MODEL] cnf_691.cnf: model file 'cnf_691.cnfmodel.txt' not found
+[MISSING MODEL] cnf_849.cnf: model file 'cnf_849.cnfmodel.txt' not found
+[MISSING MODEL] cnf_861.cnf: model file 'cnf_861.cnfmodel.txt' not found
+[MISSING MODEL] cnf_875.cnf: model file 'cnf_875.cnfmodel.txt' not found
+[MISSING MODEL] cnf_732.cnf: model file 'cnf_732.cnfmodel.txt' not found
+[MISSING MODEL] cnf_726.cnf: model file 'cnf_726.cnfmodel.txt' not found
+[MISSING MODEL] cnf_929.cnf: model file 'cnf_929.cnfmodel.txt' not found
+[MISSING MODEL] cnf_915.cnf: model file 'cnf_915.cnfmodel.txt' not found
+[MISSING MODEL] cnf_901.cnf: model file 'cnf_901.cnfmodel.txt' not found
+[VALID]   cnf_256.cnf
+[MISSING MODEL] cnf_21.cnf: model file 'cnf_21.cnfmodel.txt' not found
+[MISSING MODEL] cnf_530.cnf: model file 'cnf_530.cnfmodel.txt' not found
+[VALID]   cnf_524.cnf
+[MISSING MODEL] cnf_242.cnf: model file 'cnf_242.cnfmodel.txt' not found
+[MISSING MODEL] cnf_35.cnf: model file 'cnf_35.cnfmodel.txt' not found
+[VALID]   cnf_518.cnf
+[VALID]   cnf_295.cnf
+[MISSING MODEL] cnf_281.cnf: model file 'cnf_281.cnfmodel.txt' not found
+[VALID]   cnf_285.cnf
+[MISSING MODEL] cnf_291.cnf: model file 'cnf_291.cnfmodel.txt' not found
+[MISSING MODEL] cnf_31.cnf: model file 'cnf_31.cnfmodel.txt' not found
+[MISSING MODEL] cnf_246.cnf: model file 'cnf_246.cnfmodel.txt' not found
+[MISSING MODEL] cnf_520.cnf: model file 'cnf_520.cnfmodel.txt' not found
+[MISSING MODEL] cnf_534.cnf: model file 'cnf_534.cnfmodel.txt' not found
+[MISSING MODEL] cnf_25.cnf: model file 'cnf_25.cnfmodel.txt' not found
+[MISSING MODEL] cnf_252.cnf: model file 'cnf_252.cnfmodel.txt' not found
+[MISSING MODEL] cnf_508.cnf: model file 'cnf_508.cnfmodel.txt' not found
+[MISSING MODEL] cnf_19.cnf: model file 'cnf_19.cnfmodel.txt' not found
+[MISSING MODEL] cnf_939.cnf: model file 'cnf_939.cnfmodel.txt' not found
+[MISSING MODEL] cnf_905.cnf: model file 'cnf_905.cnfmodel.txt' not found
+[VALID]   cnf_911.cnf
+[MISSING MODEL] cnf_722.cnf: model file 'cnf_722.cnfmodel.txt' not found
+[MISSING MODEL] cnf_736.cnf: model file 'cnf_736.cnfmodel.txt' not found
+[MISSING MODEL] cnf_695.cnf: model file 'cnf_695.cnfmodel.txt' not found
+[MISSING MODEL] cnf_859.cnf: model file 'cnf_859.cnfmodel.txt' not found
+[MISSING MODEL] cnf_681.cnf: model file 'cnf_681.cnfmodel.txt' not found
+[MISSING MODEL] cnf_871.cnf: model file 'cnf_871.cnfmodel.txt' not found
+[MISSING MODEL] cnf_865.cnf: model file 'cnf_865.cnfmodel.txt' not found
+[MISSING MODEL] cnf_656.cnf: model file 'cnf_656.cnfmodel.txt' not found
+[MISSING MODEL] cnf_130.cnf: model file 'cnf_130.cnfmodel.txt' not found
+[MISSING MODEL] cnf_124.cnf: model file 'cnf_124.cnfmodel.txt' not found
+[MISSING MODEL] cnf_642.cnf: model file 'cnf_642.cnfmodel.txt' not found
+[MISSING MODEL] cnf_118.cnf: model file 'cnf_118.cnfmodel.txt' not found
+[MISSING MODEL] cnf_497.cnf: model file 'cnf_497.cnfmodel.txt' not found
+[MISSING MODEL] cnf_483.cnf: model file 'cnf_483.cnfmodel.txt' not found
+[MISSING MODEL] cnf_332.cnf: model file 'cnf_332.cnfmodel.txt' not found
+[MISSING MODEL] cnf_454.cnf: model file 'cnf_454.cnfmodel.txt' not found
+[MISSING MODEL] cnf_440.cnf: model file 'cnf_440.cnfmodel.txt' not found
+[MISSING MODEL] cnf_326.cnf: model file 'cnf_326.cnfmodel.txt' not found
+[MISSING MODEL] cnf_468.cnf: model file 'cnf_468.cnfmodel.txt' not found
+[MISSING MODEL] cnf_469.cnf: model file 'cnf_469.cnfmodel.txt' not found
+[MISSING MODEL] cnf_441.cnf: model file 'cnf_441.cnfmodel.txt' not found
+[MISSING MODEL] cnf_327.cnf: model file 'cnf_327.cnfmodel.txt' not found
+[VALID]   cnf_333.cnf
+[MISSING MODEL] cnf_455.cnf: model file 'cnf_455.cnfmodel.txt' not found
+[MISSING MODEL] cnf_482.cnf: model file 'cnf_482.cnfmodel.txt' not found
+[MISSING MODEL] cnf_496.cnf: model file 'cnf_496.cnfmodel.txt' not found
+[VALID]   cnf_119.cnf
+[MISSING MODEL] cnf_125.cnf: model file 'cnf_125.cnfmodel.txt' not found
+[MISSING MODEL] cnf_643.cnf: model file 'cnf_643.cnfmodel.txt' not found
+[MISSING MODEL] cnf_657.cnf: model file 'cnf_657.cnfmodel.txt' not found
+[MISSING MODEL] cnf_131.cnf: model file 'cnf_131.cnfmodel.txt' not found
+[MISSING MODEL] cnf_864.cnf: model file 'cnf_864.cnfmodel.txt' not found
+[MISSING MODEL] cnf_870.cnf: model file 'cnf_870.cnfmodel.txt' not found
+[MISSING MODEL] cnf_680.cnf: model file 'cnf_680.cnfmodel.txt' not found
+[MISSING MODEL] cnf_858.cnf: model file 'cnf_858.cnfmodel.txt' not found
+[MISSING MODEL] cnf_694.cnf: model file 'cnf_694.cnfmodel.txt' not found
+[MISSING MODEL] cnf_737.cnf: model file 'cnf_737.cnfmodel.txt' not found
+[MISSING MODEL] cnf_723.cnf: model file 'cnf_723.cnfmodel.txt' not found
+[MISSING MODEL] cnf_910.cnf: model file 'cnf_910.cnfmodel.txt' not found
+[MISSING MODEL] cnf_904.cnf: model file 'cnf_904.cnfmodel.txt' not found
+[MISSING MODEL] cnf_938.cnf: model file 'cnf_938.cnfmodel.txt' not found
+[MISSING MODEL] cnf_509.cnf: model file 'cnf_509.cnfmodel.txt' not found
+[MISSING MODEL] cnf_18.cnf: model file 'cnf_18.cnfmodel.txt' not found
+[MISSING MODEL] cnf_535.cnf: model file 'cnf_535.cnfmodel.txt' not found
+[MISSING MODEL] cnf_253.cnf: model file 'cnf_253.cnfmodel.txt' not found
+[MISSING MODEL] cnf_24.cnf: model file 'cnf_24.cnfmodel.txt' not found
+[MISSING MODEL] cnf_247.cnf: model file 'cnf_247.cnfmodel.txt' not found
+[VALID]   cnf_30.cnf
+[MISSING MODEL] cnf_521.cnf: model file 'cnf_521.cnfmodel.txt' not found
+[MISSING MODEL] cnf_290.cnf: model file 'cnf_290.cnfmodel.txt' not found
+[MISSING MODEL] cnf_284.cnf: model file 'cnf_284.cnfmodel.txt' not found
+[VALID]   cnf_292.cnf
+[MISSING MODEL] cnf_286.cnf: model file 'cnf_286.cnfmodel.txt' not found
+[VALID]   cnf_26.cnf
+[MISSING MODEL] cnf_251.cnf: model file 'cnf_251.cnfmodel.txt' not found
+[MISSING MODEL] cnf_537.cnf: model file 'cnf_537.cnfmodel.txt' not found
+[MISSING MODEL] cnf_523.cnf: model file 'cnf_523.cnfmodel.txt' not found
+[VALID]   cnf_32.cnf
+[MISSING MODEL] cnf_245.cnf: model file 'cnf_245.cnfmodel.txt' not found
+[MISSING MODEL] cnf_279.cnf: model file 'cnf_279.cnfmodel.txt' not found
+[MISSING MODEL] cnf_912.cnf: model file 'cnf_912.cnfmodel.txt' not found
+[MISSING MODEL] cnf_906.cnf: model file 'cnf_906.cnfmodel.txt' not found
+[VALID]   cnf_735.cnf
+[MISSING MODEL] cnf_721.cnf: model file 'cnf_721.cnfmodel.txt' not found
+[VALID]   cnf_709.cnf
+[VALID]   cnf_682.cnf
+[MISSING MODEL] cnf_696.cnf: model file 'cnf_696.cnfmodel.txt' not found
+[VALID]   cnf_866.cnf
+[MISSING MODEL] cnf_872.cnf: model file 'cnf_872.cnfmodel.txt' not found
+[VALID]   cnf_641.cnf
+[MISSING MODEL] cnf_899.cnf: model file 'cnf_899.cnfmodel.txt' not found
+[MISSING MODEL] cnf_127.cnf: model file 'cnf_127.cnfmodel.txt' not found
+[VALID]   cnf_133.cnf
+[MISSING MODEL] cnf_655.cnf: model file 'cnf_655.cnfmodel.txt' not found
+[MISSING MODEL] cnf_669.cnf: model file 'cnf_669.cnfmodel.txt' not found
+[VALID]   cnf_480.cnf
+[MISSING MODEL] cnf_494.cnf: model file 'cnf_494.cnfmodel.txt' not found
+[MISSING MODEL] cnf_325.cnf: model file 'cnf_325.cnfmodel.txt' not found
+[MISSING MODEL] cnf_443.cnf: model file 'cnf_443.cnfmodel.txt' not found
+[MISSING MODEL] cnf_457.cnf: model file 'cnf_457.cnfmodel.txt' not found
+[MISSING MODEL] cnf_331.cnf: model file 'cnf_331.cnfmodel.txt' not found
+[MISSING MODEL] cnf_319.cnf: model file 'cnf_319.cnfmodel.txt' not found
+[MISSING MODEL] cnf_318.cnf: model file 'cnf_318.cnfmodel.txt' not found
+[MISSING MODEL] cnf_456.cnf: model file 'cnf_456.cnfmodel.txt' not found
+[MISSING MODEL] cnf_330.cnf: model file 'cnf_330.cnfmodel.txt' not found
+[MISSING MODEL] cnf_324.cnf: model file 'cnf_324.cnfmodel.txt' not found
+[VALID]   cnf_442.cnf
+[MISSING MODEL] cnf_495.cnf: model file 'cnf_495.cnfmodel.txt' not found
+[MISSING MODEL] cnf_481.cnf: model file 'cnf_481.cnfmodel.txt' not found
+[VALID]   cnf_668.cnf
+[MISSING MODEL] cnf_132.cnf: model file 'cnf_132.cnfmodel.txt' not found
+[MISSING MODEL] cnf_654.cnf: model file 'cnf_654.cnfmodel.txt' not found
+[MISSING MODEL] cnf_898.cnf: model file 'cnf_898.cnfmodel.txt' not found
+[MISSING MODEL] cnf_640.cnf: model file 'cnf_640.cnfmodel.txt' not found
+[MISSING MODEL] cnf_126.cnf: model file 'cnf_126.cnfmodel.txt' not found
+[VALID]   cnf_873.cnf
+[VALID]   cnf_867.cnf
+[MISSING MODEL] cnf_697.cnf: model file 'cnf_697.cnfmodel.txt' not found
+[MISSING MODEL] cnf_683.cnf: model file 'cnf_683.cnfmodel.txt' not found
+[MISSING MODEL] cnf_708.cnf: model file 'cnf_708.cnfmodel.txt' not found
+[MISSING MODEL] cnf_720.cnf: model file 'cnf_720.cnfmodel.txt' not found
+[VALID]   cnf_734.cnf
+[MISSING MODEL] cnf_907.cnf: model file 'cnf_907.cnfmodel.txt' not found
+[MISSING MODEL] cnf_913.cnf: model file 'cnf_913.cnfmodel.txt' not found
+[MISSING MODEL] cnf_278.cnf: model file 'cnf_278.cnfmodel.txt' not found
+[MISSING MODEL] cnf_522.cnf: model file 'cnf_522.cnfmodel.txt' not found
+[MISSING MODEL] cnf_244.cnf: model file 'cnf_244.cnfmodel.txt' not found
+[MISSING MODEL] cnf_33.cnf: model file 'cnf_33.cnfmodel.txt' not found
+[MISSING MODEL] cnf_250.cnf: model file 'cnf_250.cnfmodel.txt' not found
+[MISSING MODEL] cnf_27.cnf: model file 'cnf_27.cnfmodel.txt' not found
+[MISSING MODEL] cnf_536.cnf: model file 'cnf_536.cnfmodel.txt' not found
+[MISSING MODEL] cnf_287.cnf: model file 'cnf_287.cnfmodel.txt' not found
+[MISSING MODEL] cnf_293.cnf: model file 'cnf_293.cnfmodel.txt' not found
